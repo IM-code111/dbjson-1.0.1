@@ -9,7 +9,7 @@
 ## **Installation**
 ****
 ```
-$- pip install dbjson
+$- pip install DBJSONS==1.0.2
 ```
 
 ## **What is dbjson?**

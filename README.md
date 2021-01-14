@@ -67,7 +67,6 @@ db.data().end('database')
 ```
 ## **Quicklinks**
 ****
-### [**Docs**](www.working.on.it.com)
 ### [**Discord Server**](https://discord.gg/h3SWAaHa22)
 
 ## **License**
